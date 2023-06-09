@@ -2,4 +2,4 @@
 
 This is my final project for Complete JavaScript course
 
-Not designed by me
+I didn't design it
