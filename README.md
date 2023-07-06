@@ -1,4 +1,4 @@
-### Forkify Food App 
+# Forkify
 
 This is my final project for Complete JavaScript course,
 you can check live: https://food-app-forkify.netlify.app/
